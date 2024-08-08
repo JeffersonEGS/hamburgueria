@@ -168,7 +168,9 @@ section#contato {
         width: 40px;
         height: 40px;
     }
-
+     #sobre span {
+        font-size: 12px;
+    }
     nav ul {
         font-size: 16px;
     }
